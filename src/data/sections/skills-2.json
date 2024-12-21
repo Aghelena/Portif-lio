@@ -1,0 +1,61 @@
+{
+    "title": "Hard Skills",
+    "items": [
+        {
+            "label": "Figma",
+            "value": "75"
+        },
+        {
+            "label": "Photoshop",
+            "value": "90"
+        },
+        {
+            "label": "Html",
+            "value": "90"
+        },
+        {
+            "label": "Css",
+            "value": "90"
+        },
+        {
+            "label": "React-JS",
+            "value": "90"
+        },
+        {
+            "label": "Next-JS",
+            "value": "90"
+        },
+        {
+            "label": "Tailwind",
+            "value": "90"
+        },
+        {
+            "label": "Web-design",
+            "value": "90"
+        },
+        {
+            "label": "SQL",
+            "value": "60"
+        },
+        {
+            "label": "Pyhton",
+            "value": "55"
+        },
+        {
+            "label": "Node",
+            "value": "50"
+        },
+        {
+            "label": "Excel",
+            "value": "90"
+        },
+        {
+            "label": "Word",
+            "value": "90"
+        },
+        {
+            "label": "Google Drive",
+            "value": "90"
+        }
+    ]
+}

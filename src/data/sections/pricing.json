@@ -1,0 +1,55 @@
+{
+    "title": "Price",
+    "items": [
+        {
+            "name": "Hora aula",
+            "price": {
+                "value": "R$30",
+                "after": "h/aula"
+            },
+            "list": [
+                {
+                    "active": 1,
+                    "value": "Aulas 2 vezes na semana"
+                },
+                {
+                    "active": 1,
+                    "value": "Aulas 3 vezes na semana"
+                },
+                {
+                    "active": 1,
+                    "value": "Aulas 4 vezes na semana"
+                }
+            ],
+            "button": {
+                "label": "Entrar em Contato",
+                "link": "/contact"
+            }
+        },
+        {
+            "name": "Pagamento Mensal",
+            "price": {
+                "value": "Até R$480",
+                "after": "/mo"
+            },
+            "list": [
+                {
+                    "active": 1,
+                    "value": "Aulas 2 vezes na semana - R$240"
+                },
+                {
+                    "active": 1,
+                    "value": "Aulas 3 vezes na semana - R$360"
+                },
+                {
+                    "active": 1,
+                    "value": "Aulas 4 vezes na semana - R$480"
+                }
+            ],
+            "button": {
+                "label": "Entrar em Contato",
+                "link": "/contact"
+            }
+        }
+    ]
+}

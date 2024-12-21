@@ -1,0 +1,17 @@
+{
+    "title": "Services",
+    "items": [
+        {
+            "title": "Aulas Particulares de Inglês",
+            "icon": "/img/icons/2.svg", 
+            "text": "Aprimore seu inglês com aulas particulares e personalizadas",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "Aulas Particulares de Informática",
+            "icon": "/img/icons/1.svg",
+            "text": "Pacote Office, Sistema e Informática",
+            "link": "/services/service-2"
+        }
+    ]
+}

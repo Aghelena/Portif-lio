@@ -1,0 +1,37 @@
+{
+    "title": "Soft Skills",
+    "items": [
+        {
+            "label": "Comunicação",
+            "value": "90"
+        },
+        {
+            "label": "Oratória",
+            "value": "90"
+        },
+        {
+            "label": "Trabalho Voluntário",
+            "value": "90"
+        },
+        {
+            "label": "Trabalho em equipe",
+            "value": "90"
+        },
+        {
+            "label": "Redação",
+            "value": "90"
+        },
+        {
+            "label": "Liderança",
+            "value": "90"
+        },
+        {
+            "label": "Empatia",
+            "value": "90"
+        },
+        {
+            "label": "Criatividade",
+            "value": "90"
+        }
+    ]
+}

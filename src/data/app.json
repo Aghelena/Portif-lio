@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "siteName": "Agnyh's Portfolio",
+    "formspreeURL": "https://formspree.io/f/mjkkbrbb"
+  },
+  "header": {
+    "logo": {
+      "symbol": "AG",
+      "link": "/"
+    },
+    "button": {
+      "link": "/contact"
+    },
+    "menu": [
+      {
+        "label": "Home",
+        "link": "/",
+        "children": [
+          {
+            "label": "Default",
+            "link": "/"
+          },
+          {
+            "label": "Tela Cheia",
+            "link": "/home-2"
+          }
+        ]
+      },
+      {
+        "label": "Projetos",
+        "link": "/projects",
+        "children": [
+          {
+            "label": "Tela Cheia",
+            "link": "/projects-4 "
+          }
+        ]
+      },
+      {
+        "label": "Contato",
+        "link": "/contact",
+        "children": 0
+      },
+      {
+        "label": "Trajetótia",
+        "link": "/story",
+        "children": 0
+      }
+    ]
+  },
+  "footer": {
+    "copy": "© 2025. ",
+    "dev": "Developed by: &nbsp;<a href=\"https://github.com/Aghelena\" target=\"_blank\">Ag</a>"
+  },
+  "social": [
+    {
+      "link": "https://www.linkedin.com/in/agnyh-helena-souza-4b3889269",
+      "icon": "fab fa-linkedin",
+      "title": "Linkedin"
+    },
+    {
+      "link": "https://github.com/Aghelena",
+      "icon": "fab fa-github",
+      "title": "Github"
+    },
+    {
+      "link": "https://www.instagram.com/aagnyh/",
+      "icon": "fab fa-instagram",
+      "title": "Instragram"
+    }
+  ]
+}
