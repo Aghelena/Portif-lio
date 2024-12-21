@@ -5,8 +5,6 @@ import PageBanner from "@components/PageBanner";
 import ProjectsGrid from "@components/ProjectsGrid";
 
 
-import { getSortedProjectsData } from "@library/projects";
-
 import Link from "next/link";
 import { ProjectsData } from '../data/projects/projectsData';
 
@@ -25,12 +23,3 @@ const Projects = (props) => {
 };
 export default Projects;
 
-export async function getStaticProps() {
-  const allProjects = getSortedProjectsData();
-
-  return {
-    props: {
-      projects: allProjects
-    }
-  }
-}
