@@ -2,7 +2,6 @@ import Layouts from "@layouts/Layouts";
 
 import Link from "next/link";
 
-import { getAllProjectsIds, getProjectData, getRelatedProjects } from "@library/projects";
 
 import RelatedProjectsSection from "@components/sections/RelatedProjects";
 

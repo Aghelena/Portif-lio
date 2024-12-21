@@ -2,7 +2,6 @@ import PageBanner from "@components/PageBanner";
 import Layouts from "@layouts/Layouts";
 import dynamic from "next/dynamic";
 
-import { getSortedServicesData } from "@library/services";
 
 import CallToActionSection from "@components/sections/CallToAction";
 import PricingSection from "@components/sections/Pricing";
