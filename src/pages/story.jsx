@@ -4,9 +4,7 @@ import PageBanner from "@components/PageBanner";
 
 const Story = ( props ) => {
   return (
-    <Layouts 
-      rightPanelBackground={"/img/person/bg-4.jpg"}
-      rightPanelImg={"/img/person/4.png"}
+    <Layouts fullWidth
     >
       <PageBanner pageTitle={"Trajetória"} />
       
