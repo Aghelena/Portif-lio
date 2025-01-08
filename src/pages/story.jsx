@@ -29,14 +29,6 @@ const Story = ( props ) => {
                               <p className="mil-text-sm mil-mb-15">Student</p>
                               <p>Bacharelado em Enganharia de Software.</p>
                           </li>
-                                                  <li className="mil-up">
-                              <div className="mil-item-head mil-mb-5">
-                                  <h4>Colégio Alto Padrão Franca</h4>
-                                  <div className="mil-text-sm">2020 - 2022</div>
-                              </div>
-                              <p className="mil-text-sm mil-mb-15">Student</p>
-                              <p>Segundo Grau.</p>
-                          </li>
                           <li className="mil-up">
                               <div className="mil-item-head mil-mb-5">
                                   <h4>Cambridge University Press & Assessment</h4>
@@ -44,6 +36,14 @@ const Story = ( props ) => {
                               </div>
                               <p className="mil-text-sm mil-mb-15">Student</p>
                               <p>First Certificate in English - FCE(B2).</p>
+                          </li>
+                          <li className="mil-up">
+                              <div className="mil-item-head mil-mb-5">
+                                  <h4>Colégio Alto Padrão Franca</h4>
+                                  <div className="mil-text-sm">2020 - 2022</div>
+                              </div>
+                              <p className="mil-text-sm mil-mb-15">Student</p>
+                              <p>Segundo Grau.</p>
                           </li>
                           <li className="mil-up">
                               <div className="mil-item-head mil-mb-5">

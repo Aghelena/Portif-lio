@@ -11,18 +11,19 @@ import Link from "next/link";
 import PricingSection from "@components/sections/Pricing";
 import { serviceData } from "@/src/data/services/services";
 
-
 export default function ServiceDetail({ services }) {
   if (!services) {
     return <p>Serviço não encontrado.</p>;
   }
 
+  useEffect(() => {
+    accordion();
+  }, []);
+  
   const { previewDetails, fullDetails } = services;
 
-  
   return (
-    <Layouts fullWidth
-    >
+    <Layouts fullWidth>
       <PageBanner pageTitle={previewDetails.title} align={"center"} />
 
       {fullDetails.subtitle != undefined && (
@@ -80,7 +81,7 @@ export default function ServiceDetail({ services }) {
       <PricingSection />
     </Layouts>
   );
-};
+}
 
 export async function getStaticPaths() {
   const paths = serviceData.map((s) => ({

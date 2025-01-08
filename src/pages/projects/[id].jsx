@@ -15,7 +15,7 @@ const ProjectDetail = ( props ) => {
       rightPanelBackground={postData.image}
     >
     
-      {/* banner */}
+      banner
       <section className="mil-banner-sm mil-center">
           <div className="mil-banner-top mil-up" />
           <div className="mil-banner-title">

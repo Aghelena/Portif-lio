@@ -14,17 +14,8 @@
     "menu": [
       {
         "label": "Home",
-        "link": "/home-2",
-        "children": [
-         
-        ]
-      },
-      {
-        "label": "Projetos",
-        "link": "/projects-4",
-        "children": [
-        
-        ]
+        "link": "/",
+        "children": 0
       },
       {
         "label": "Contato",
@@ -40,7 +31,7 @@
   },
   "footer": {
     "copy": "© 2025. ",
-    "dev": "Developed by: &nbsp;<a href=\"https://github.com/Aghelena\" target=\"_blank\">Ag</a>"
+    "dev": "Developed by: <a href=\"https://github.com/Aghelena\" target=\"_blank\">Ag</a>"
   },
   "social": [
     {
