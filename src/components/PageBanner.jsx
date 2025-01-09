@@ -19,6 +19,7 @@ const PageBanner = ({ pageTitle, breadTitle, align }) => {
   return (
     <>
       <Head>
+        <link rel="icon" href="../../pages/favicon.png" type="image/png" />
         <title>{headTitle}</title>
       </Head>
       

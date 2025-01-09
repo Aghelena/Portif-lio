@@ -8,6 +8,7 @@ class MyDocument extends Document {
           {/* meta begin */}
           <meta charSet="UTF-8" />
           <meta httpEquiv="X-UA-Compatible" content="ie=edge" />
+          <link rel="icon" href="./favicon.png" type="image/png" />
           {/* meta end */}
 
           {/* public assets begin */}
