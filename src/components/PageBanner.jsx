@@ -28,17 +28,9 @@ const PageBanner = ({ pageTitle, breadTitle, align }) => {
           <div className="mil-banner-title">
               <h1 className="mil-h1-sm mil-up mil-mb-60" dangerouslySetInnerHTML={{__html : pageTitle}} />
               <ul className="mil-breadcrumbs mil-up">
-                  <li><Link href="/">Homepage</Link></li>
-                  {asPath.indexOf('/projects/') != -1 &&
-                  <li>
-                    <Link href="/projects">Projetos</Link>
-                  </li>
-                  }
-                  {asPath.indexOf('/services/') != -1 &&
                   <li>
                     <Link href="/services">Serviços</Link>
                   </li>
-                  }
                   <li dangerouslySetInnerHTML={{__html : clearBreadTitle}} />
               </ul>
           </div>
