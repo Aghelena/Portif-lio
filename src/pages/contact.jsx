@@ -2,6 +2,7 @@ import PageBanner from "@/src/components/PageBanner";
 import Layouts from "@/src/layouts/Layouts";
 import { Formik } from 'formik';
 import appData from "@data/app.json";
+import { useForm, ValidationError } from '@formspree/react';
 
 const Contact = () => {
   return (
@@ -23,18 +24,6 @@ const Contact = () => {
             </ul>
         </div>
 
-        {/* map */}
-        {/* <div className="mil-map mil-mb-90">
-            <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3736.370054657078!2d-47.38307872417255!3d-20.53203455733895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b0a605531a365b%3A0xaa475a78bf1929c9!2sR.%20Dr.%20Clemente%20Segundo%20Pinho%2C%20Franca%20-%20SP%2C%2014401-362!5e0!3m2!1spt-BR!2sbr!4v1734621327867!5m2!1spt-BR!2sbr" 
-              style={{"border": "0"}} 
-              allowFullScreen 
-              loading="lazy" 
-              referrerPolicy="no-referrer-when-downgrade" 
-            />
-
-        </div> */}
-        {/* map end */}
 
         <div className="mil-section-title mil-up">
             <div className="mil-divider" />
