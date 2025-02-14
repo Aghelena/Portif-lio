@@ -103,9 +103,9 @@ const Story = ( props ) => {
                           <li className="mil-up">
                               <div className="mil-item-head mil-mb-5">
                                   <h4>Aliança América</h4>
-                                  <div className="mil-text-sm">2023 - Atual</div>
+                                  <div className="mil-text-sm">2023 - 2025</div>
                               </div>
-                              <p className="mil-text-sm mil-mb-15">Student</p>
+                              <p className="mil-text-sm mil-mb-15">Teacher</p>
                               <p>Professora de Inglês.</p>
                           </li>    <li className="mil-up">
                               <div className="mil-item-head mil-mb-5">
