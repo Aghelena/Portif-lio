@@ -41,7 +41,7 @@ Learn essential computing skills, including Office Suite, systems, and general c
 - Criatividade (Creativity)
 
 Portifólio 
-![Alt text](URL-to-your-GIF)
+![Portfolio GIF](.portifólio.gif)
 
 ---
 
