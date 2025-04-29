@@ -1,48 +1,68 @@
-# Agnyh Helena Batazuos Portfolio
+# 📌 Portfólio de Agnyh Helena Batazuos
 
-Hello! My name is **Agnyh Helena Batazuos**, and I am passionate about teaching and technology. I am both an **English teacher** and a **computing teacher**, always eager to help others enhance their skills in various fields.
+Bem-vindo ao repositório do meu portfólio profissional!  
+Sou **Agnyh Helena**, professora de inglês e informática, apaixonada por tecnologia e educação.  
+Este projeto é uma vitrine das minhas habilidades, experiências e serviços oferecidos.
 
-## 🚀 Services
-
-### 📚 Aulas Particulares de Inglês
-Personalized English lessons to improve your skills.
-
-### 💻 Aulas Particulares de Informática
-Learn essential computing skills, including Office Suite, systems, and general computing knowledge.
-
-## 💬 Language Skills
-- **English**: Advanced
-- **Spanish**: Intermediate
-
-## 🔧 Hard Skills
-- **Figma**
-- **Photoshop**
-- **HTML**
-- **CSS**
-- **React-JS**
-- **Next-JS**
-- **Tailwind**
-- **Web Design**
-- **SQL**
-- **Python**
-- **Node**
-- **Excel**
-- **Word**
-- **Google Drive**
-
-## 💡 Soft Skills
-- Comunicação (Communication)
-- Oratória (Public Speaking)
-- Trabalho Voluntário (Volunteer Work)
-- Trabalho em equipe (Teamwork)
-- Redação (Writing)
-- Liderança (Leadership)
-- Empatia (Empathy)
-- Criatividade (Creativity)
-
-Portifólio 
-![Portfolio GIF](.portifólio.gif)
+🌐 **Acesse o site:**  
+🔗 [www.batazuos.com](https://www.batazuos.com)
 
 ---
 
-© 2025 | Developed by [Agnyh](https://github.com/Aghelena)
+## ✨ Sobre o Projeto
+
+Este portfólio foi desenvolvido com foco em **responsividade** e **acessibilidade**, utilizando tecnologias modernas para proporcionar uma experiência agradável ao usuário.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **React.js** e **Next.js** para construção da interface
+- **Tailwind CSS** para estilização rápida e responsiva
+- **Formik** para gerenciamento de formulários
+- **Google Maps Embed API** para exibição da localização
+
+---
+
+## 📬 Contato
+
+O site possui um formulário de contato funcional, permitindo que visitantes entrem em contato diretamente.
+
+📧 [agnyhhelena9@gmail.com](mailto:agnyhhelena9@gmail.com)
+
+---
+
+## 📂 Organização do Projeto
+
+A estrutura do projeto segue boas práticas de desenvolvimento, com:
+
+- Componentes reutilizáveis
+- Organização clara de pastas e arquivos
+- Integração com APIs de forma eficiente
+
+---
+
+## 🚀 Como Rodar Localmente
+
+### Clone o repositório:
+```bash
+git clone https://github.com/Aghelena/Portif-lio.git
+
+Instale as dependências:
+
+bash
+npm install
+
+Inicie o servidor de desenvolvimento:
+
+bash
+npm run dev
+
+Acesse http://localhost:3000 no seu navegador.
+```
+## 🎥 Demonstração
+
+![Demonstração do site](./demo.gif)
+
+📄 Licença
+Este projeto está licenciado sob a MIT License.
