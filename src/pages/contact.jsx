@@ -10,6 +10,32 @@ const Contact = () => {
     >
         <PageBanner pageTitle={"Entre em contato!"} align={"center"} />
       
+{/* map */}
+<div style={{
+  display: 'flex',
+  justifyContent: 'center',
+  alignItems: 'center',
+  marginTop: '40px',
+  marginBottom: '60px'
+}}>
+  <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7472.740109314172!2d-47.38307872416385!3d-20.53203455733901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94b0a605531a365b%3A0xaa475a78bf1929c9!2sR.%20Dr.%20Clemente%20Segundo%20Pinho%2C%20Franca%20-%20SP%2C%2014401-362%2C%20Brazil!5e0!3m2!1sen!2sus!4v1745925797420!5m2!1sen!2sus"
+    style={{
+      border: 0,
+      borderRadius: '10px',
+      boxShadow: '0 4px 20px rgba(0,0,0,0.1)',
+      width: '90%',
+      maxWidth: '900px',
+      height: '450px'
+    }}
+    allowFullScreen=""
+    loading="lazy"
+    referrerPolicy="no-referrer-when-downgrade"
+  ></iframe>
+</div>
+{/* map end */}
+
+
         {/* info */}
         <div>
             <ul className="mil-puplication-details mil-up mil-mb-90">
