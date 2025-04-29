@@ -64,5 +64,6 @@ Acesse http://localhost:3000 no seu navegador.
 
 ![Demonstração do site](./portifolio-api.gif)
 
-📄 Licença
+## 📄 Licença
+
 Este projeto está licenciado sob a MIT License.
