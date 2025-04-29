@@ -62,7 +62,7 @@ Acesse http://localhost:3000 no seu navegador.
 ```
 ## 🎥 Demonstração
 
-![Demonstração do site](./demo.gif)
+![Demonstração do site](./portifolio-api.gif)
 
 📄 Licença
 Este projeto está licenciado sob a MIT License.
