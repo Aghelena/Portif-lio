@@ -3,7 +3,6 @@ import PaginatedBlog from '@components/PaginatedBlog'
 import Pagination from '@components/Pagination'
 
 import PageBanner from "@components/PageBanner";
-import SubscribeSection from "@components/sections/Subscribe";
 import Layouts from "@layouts/Layouts";
 
 import { getPaginatedPostsData } from "@library/posts";
@@ -33,8 +32,6 @@ const Blog2 = ( { posts, totalPosts, currentPage } ) => {
           </div>
       </section>
       {/* blog end */}
-
-      <SubscribeSection />
 
     </Layouts>
   );
